@@ -1,0 +1,13 @@
+# spacy: For natural language processing
+spacy
+
+# streamlit: For the UI
+streamlit
+
+# pandas: For handling data (e.g., exporting test cases to CSV)
+pandas
+
+# nltk: For additional NLP utilities if needed
+nltk
+python-dotenv
+matplotlib
